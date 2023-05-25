@@ -1,0 +1,26 @@
+=== Test Summary
+NAME                 VALUE                 
+───────────────────  ──────────────────────
+Outcome              Passed                
+Tests Ran            4                     
+Pass Rate            100%                  
+Fail Rate            0%                    
+Skip Rate            0%                    
+Test Run Id                                
+Test Execution Time  20502 ms              
+Org Id               00D89000000MZFFEA4    
+Username             qa@googlerebatecap.org
+Org Wide Coverage    83%                   
+
+
+=== Test Results
+TEST NAME                                   OUTCOME  MESSAGE  RUNTIME (MS)
+──────────────────────────────────────────  ───────  ───────  ────────────
+TestRebateCap.calculateRebateWithCap        Pass              5174        
+TestRebateCap.calculateRebateWithCapBULK    Pass              6784        
+TestRebateCap.calculateRebateWithCapBULK_2  Pass              6557        
+TestRebateCap.calculateRebateWithoutCap     Pass              1911        
+
+
+=== Apex Code Coverage by Class
+Execution time was 27 seconds.
